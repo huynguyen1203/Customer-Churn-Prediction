@@ -1,4 +1,4 @@
-# A prediction of Telco's Customer Churn
+# A prediction of Customer Churn in Telecommunication Industry
 Authors: Denton Li, Shreya Verma, Huy Nguyen
 ## Introduction
 With the purpose of reducing the churn rate, this model attempts to answer two business questions:
