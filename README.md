@@ -15,7 +15,7 @@ This model runs on Python 3 and requires the following packages:
 - factor_analyzer
 
 ## Content
-This package contents two file:
+This package contents five files:
 - a README file
 - Data set
 Source: https://www.kaggle.com/blastchar/telco-customer-churn
