@@ -20,3 +20,5 @@ This package contents two file:
 - Data set
 Source: https://www.kaggle.com/blastchar/telco-customer-churn
 - Report (in PDF and HTML)
+- Code in Jupiter Notebook
+- Code in HTML
